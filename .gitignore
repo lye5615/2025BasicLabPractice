@@ -1,0 +1,18 @@
+*.hwp
+*.docx
+*.pdf
+*.pptx
+
+# macOS 자동파일
+.DS_Store
+
+# Dart 관련 무시할 것들
+.dart_tool/
+.packages
+build/
+.pub/
+.idea/
+
+# 임시 파일
+*.log
+*.tmp
